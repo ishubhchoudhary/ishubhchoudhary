@@ -1,7 +1,8 @@
 # Shubham Choudhary
-**Vill. Dakachya, indore 452020** <br/>
-```8962887881```  <br/>
+**Vill. Dakachya, Dist. Indore (M.P.) India 453771** <br/>
+```+91-8962887881```  <br/>
 **Email**  shubhamchoudharys.in@gmail.com
+Linkedin: ishubhchoudhary
 
 ---
 
@@ -24,7 +25,8 @@ BCA    | 2021 | Completed
 - HTML
 - CSS
 - JAVASCRIPT
-- PHP
+- CORE PHP
+- MYSQL
 - JQUERY
 - BOOTSTRAP
 
@@ -87,4 +89,4 @@ BCA    | 2021 | Completed
 **Father’s Name :**      Sunil Choudhary  <br/>
 **Strength :**           Long Time work, Discipline, Hard worker, Responsibility, Punctuality  <br/>
 **Hobbies :**            Listening music <br/>
-**Permanent Address :**  Vill. Dakachya,indore 453771 <br/>
+**Permanent Address :**  Vill. Dakachya, Dist. Indore (M.P.) India 453771 <br/>
